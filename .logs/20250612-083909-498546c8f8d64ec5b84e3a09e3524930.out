@@ -1,0 +1,59 @@
+  ▲ Next.js 14.2.28
+  - Local:        http://localhost:3000
+  - Experiments (use with caution):
+    · outputFileTracingRoot
+
+ ✓ Starting...
+ ✓ Ready in 1875ms
+ ○ Compiling / ...
+ ✓ Compiled / in 3.9s (1254 modules)
+ GET / 200 in 4512ms
+ ✓ Compiled in 573ms (622 modules)
+ GET / 200 in 156ms
+ ○ Compiling /risk-disclosure ...
+ ✓ Compiled /risk-disclosure in 2.9s (1369 modules)
+ GET /login 200 in 3407ms
+ GET /privacy 200 in 3385ms
+ GET /terms 200 in 3384ms
+ GET /risk-disclosure 200 in 3392ms
+ GET /signup 200 in 3401ms
+ GET /contact 200 in 3419ms
+ GET /about 200 in 3520ms
+ GET /demo 200 in 3498ms
+ GET /help 200 in 3504ms
+ GET /faq 200 in 3626ms
+ GET /blog 200 in 3605ms
+ ○ Compiling /forgot-password ...
+ ✓ Compiled /forgot-password in 1101ms (1382 modules)
+ GET /forgot-password 200 in 1305ms
+ GET /blog/risk-management-strategies 200 in 1702ms
+ GET /blog/top-5-technical-indicators 200 in 1710ms
+ GET /blog/cryptocurrency-trading-guide 200 in 1700ms
+ GET /blog/forex-trading-basics 200 in 1698ms
+ GET /blog/market-psychology-guide 200 in 1690ms
+ GET /blog/building-trading-strategy 200 in 1672ms
+ GET /blog/binary-options-guide-indian-traders 200 in 1757ms
+ GET /privacy 200 in 122ms
+ GET /risk-disclosure 200 in 180ms
+ GET /contact 200 in 208ms
+ GET /faq 200 in 208ms
+ GET /login 200 in 243ms
+ GET /about 200 in 243ms
+ GET /blog/binary-options-guide-indian-traders 200 in 245ms
+ GET /blog/market-psychology-guide 200 in 245ms
+ GET /blog/building-trading-strategy 200 in 245ms
+ GET /blog/risk-management-strategies 200 in 246ms
+ GET /blog/top-5-technical-indicators 200 in 163ms
+ GET /demo 200 in 166ms
+ GET / 200 in 181ms
+ GET /terms 200 in 208ms
+ GET /blog/forex-trading-basics 200 in 172ms
+ GET /forgot-password 200 in 188ms
+ GET /signup 200 in 204ms
+ GET /help 200 in 247ms
+ GET /blog 200 in 249ms
+ GET /blog/cryptocurrency-trading-guide 200 in 253ms
+ GET / 200 in 63ms
+ GET / 200 in 38ms
+ ✓ Compiled in 627ms (1382 modules)
+[?25h

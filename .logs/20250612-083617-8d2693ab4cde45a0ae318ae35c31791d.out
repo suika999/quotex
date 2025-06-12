@@ -1,0 +1,60 @@
+  ▲ Next.js 14.2.28
+  - Local:        http://localhost:3000
+  - Experiments (use with caution):
+    · outputFileTracingRoot
+
+ ✓ Starting...
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+ ✓ Ready in 1361ms
+ ○ Compiling / ...
+ ✓ Compiled / in 4.1s (1254 modules)
+ GET / 200 in 4597ms
+ ✓ Compiled in 545ms (622 modules)
+ GET / 200 in 180ms
+ ○ Compiling /risk-disclosure ...
+ ✓ Compiled /risk-disclosure in 3.6s (1357 modules)
+ GET /terms 200 in 4160ms
+ GET /privacy 200 in 4178ms
+ GET /risk-disclosure 200 in 4164ms
+ GET /login 200 in 4167ms
+ GET /signup 200 in 4234ms
+ GET /about 200 in 4394ms
+ GET /demo 200 in 4298ms
+ GET /faq 200 in 4473ms
+ GET /blog 200 in 4479ms
+ GET /help 404 in 4383ms
+ GET /contact 404 in 4369ms
+ GET /blog/binary-options-guide-indian-traders 404 in 70ms
+ GET /blog/top-5-technical-indicators 404 in 133ms
+ GET /blog/risk-management-strategies 404 in 142ms
+ GET /blog/market-psychology-guide 404 in 133ms
+ GET /blog/cryptocurrency-trading-guide 404 in 136ms
+ GET /blog/forex-trading-basics 404 in 124ms
+ GET /blog/building-trading-strategy 404 in 124ms
+ GET /forgot-password 404 in 122ms
+ GET /blog/market-psychology-guide 404 in 57ms
+ GET /blog/building-trading-strategy 404 in 56ms
+ GET /blog/risk-management-strategies 404 in 57ms
+ GET /contact 404 in 62ms
+ GET /blog/binary-options-guide-indian-traders 404 in 64ms
+ GET /faq 200 in 137ms
+ GET /risk-disclosure 200 in 140ms
+ GET /about 200 in 150ms
+ GET /login 200 in 150ms
+ GET /privacy 200 in 151ms
+ GET /demo 200 in 180ms
+ GET / 200 in 181ms
+ GET /terms 200 in 200ms
+ GET /signup 200 in 165ms
+ GET /blog/top-5-technical-indicators 404 in 157ms
+ GET /forgot-password 404 in 136ms
+ GET /help 404 in 143ms
+ GET /blog/forex-trading-basics 404 in 143ms
+ GET /blog 200 in 149ms
+ GET /blog/cryptocurrency-trading-guide 404 in 142ms
+ ✓ Compiled in 926ms (642 modules)
+[?25h
