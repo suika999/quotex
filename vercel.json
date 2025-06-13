@@ -1,3 +1,13 @@
 {
-  "rootDirectory": "app"
+  "version": 2,
+  "builds": [
+    {
+      "src": "app/package.json",
+      "use": "@vercel/next"
+    }
+  ],
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/(.*)", "dest": "/app/$1" }
+  ]
 }
