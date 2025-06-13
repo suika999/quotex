@@ -1,5 +1,4 @@
 const path = require('path');
-// edit edit
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   distDir: process.env.NEXT_DIST_DIR || '.next',
